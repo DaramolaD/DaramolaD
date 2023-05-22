@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daramola Daniel
 - 👀 I’m interested in Reacjs projects 
-- 🌱 I’m currently learning Reactjs, Nodejs
+- 🌱 I’m currently learning React Native, Nodejs
 - 💞️ I’m open to collaborating on website development or other interesting tech projects in general.
 - 📫 How to reach me, here is my email: dandaramola.d@gmail.com
 
