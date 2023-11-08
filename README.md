@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daramola Daniel
-- 👀 I’m interested in Reacjs, Nextjs, React Native projects 
-- 🌱 I’m currently learning Graphql, Expressjs, Nodejs
+- 👀 I’m interested in Reactjs, Nextjs, React Native projects 
+- 🌱 I’m currently working on freelancing platform, and LMC, full stack project
 - 💞️ I’m open to collaborating on website development or other interesting tech projects in general.
 - 📫 How to reach me, here is my email: dandaramola.d@gmail.com
 
