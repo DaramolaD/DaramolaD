@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Daramola Daniel
-- 👀 I’m interested in UIUX Design, Reactjs, Nextjs, React Native projects 
-- 🌱 I’m currently working on SynFlow, and DataVantage
-- 💞️ I’m open to collaborating on saas, website development or other interesting tech projects in general.
-- 📫 How to reach me, here is my email: dandaramola.d@gmail.com
+# 👋 Hi, I’m Daramola Daniel
+
+- 👀 I’m interested in UI/UX Design, React.js, Next.js, and React Native projects.
+- 🌱 Currently building **SynFlow** and **DataVantage**.
+- 💼 Frontend Developer at **Dormot**, a real estate management startup.
+- 💞️ Open to collaborating on SaaS, website development, and other exciting tech projects.
+- 📫 Reach me at: dandaramola.d@gmail.com
 
 <!---
 DaramolaD/DaramolaD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
