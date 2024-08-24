@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Daramola Daniel
 
-- 👀 I’m interested in UI/UX Design, React.js, Next.js, and React Native projects.
+- 👀 I’m interested in UI/UX Design, React.js, Next.js, React Native, MERN projects.
 - 🌱 Currently building **SynFlow** and **DataVantage**.
 - 💼 Frontend Developer at **Dormot**, a real estate management startup.
 - 💞️ Open to collaborating on SaaS, website development, and other exciting tech projects.
