@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Daramola Daniel
 
 - 👀 I’m interested in UI/UX Design, React.js, Next.js, React Native, MERN projects.
-- 🌱 Currently building **SynFlow** and **DataVantage**.
-- 💼 Frontend Developer at **Dormot**, a real estate management startup.
+- 🌱 Currently building **HostlAlly** a hostel management application.
+- 💼 Frontend Developer at **Hex**, a software development startup.
 - 💞️ Open to collaborating on SaaS, website development, and other exciting tech projects.
 - 📫 Reach me at: dandaramola.d@gmail.com
 
